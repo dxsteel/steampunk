@@ -1,16 +1,23 @@
+import image from '../img/precision-factory-iron-parts-teamwork.jpg'
+
+
 export const App = () => {
   return (
     <div
       style={{
+        fontFamily: 'Cinzel Decorative',
+        backgroundImage:`url(${image})`,
+        backgroundRepeat:"no-repeat",
+        backgroundSize:"cover",
         height: '100vh',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
+        fontSize: 65,
+        color: '#fff'
       }}
     >
-      React homework template
+      World of steampunk
     </div>
   );
 };
