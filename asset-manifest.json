@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/steampunk/static/css/main.569c4525.css",
+    "main.css": "/steampunk/static/css/main.03f39a3f.css",
     "main.js": "/steampunk/static/js/main.1d9b36ca.js",
     "static/media/imgonline-com-ua-Resize1.jpg": "/steampunk/static/media/imgonline-com-ua-Resize1.e6097087e2db3a0dd2ae.jpg",
     "index.html": "/steampunk/index.html",
-    "main.569c4525.css.map": "/steampunk/static/css/main.569c4525.css.map",
+    "main.03f39a3f.css.map": "/steampunk/static/css/main.03f39a3f.css.map",
     "main.1d9b36ca.js.map": "/steampunk/static/js/main.1d9b36ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.569c4525.css",
+    "static/css/main.03f39a3f.css",
     "static/js/main.1d9b36ca.js"
   ]
 }
