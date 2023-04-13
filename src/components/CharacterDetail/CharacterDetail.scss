@@ -1,0 +1,115 @@
+.detail-link {
+  margin: 27px 12px 80px 28px;
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 21px;
+  @media screen and (min-width: 1440px) {
+    margin: 25px 12px 35px 30px;
+  }
+}
+.detail-link:hover{
+  color: #f8990b;
+}
+
+.detail-image {
+  width: 150px;
+  border: 5px solid #f8990b;
+ 
+  border-radius: 150px;
+  margin: auto;
+  margin-bottom: 34px;
+  @media screen and (min-width: 1440px) {
+    width: 300px;
+    margin-bottom: 16px;
+  }
+}
+
+.detail-name {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 34px;
+
+  color: #ffffff;
+  @media screen and (min-width: 1440px) {
+    font-size: 48px;
+    line-height: 56px;
+    margin-bottom: 48px;
+  }
+}
+
+.detail-informations {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 25px;
+  margin-left: 24px;
+
+  letter-spacing: 0.15px;
+
+  color: #8e8e93;
+  @media screen and (min-width: 1440px) {
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.detail-properties {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 40px;
+  margin-right: 32px;
+
+  letter-spacing: 0.15px;
+
+  color: #ffffff;
+  @media screen and (min-width: 1440px) {
+    margin-left: 541px;
+    margin-right: 502px;
+  }
+}
+
+.detail-descriptions {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  margin-left: 40px;
+  margin-right: 32px;
+  margin-bottom: 12px;
+
+  letter-spacing: 0.25px;
+
+  color: #6e798c;
+  @media screen and (min-width: 1440px) {
+    margin-left: 541px;
+    margin-right: 502px;
+  }
+}
+
+.detail-line {
+  border-bottom: rgba(235, 129, 30, 0.999) 1px solid;
+  margin-left: 40px;
+  margin-right: 32px;
+  margin-bottom: 9px;
+  @media screen and (min-width: 1440px) {
+    margin-left: 541px;
+    margin-right: 502px;
+  }
+}
