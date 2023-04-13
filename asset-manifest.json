@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/steampunk/static/css/main.fcfbaa4b.css",
-    "main.js": "/steampunk/static/js/main.8c05e643.js",
-    "static/media/precision-factory-iron-parts-teamwork.jpg": "/steampunk/static/media/precision-factory-iron-parts-teamwork.2b5160ab636dd62d531d.jpg",
+    "main.css": "/steampunk/static/css/main.79fddb51.css",
+    "main.js": "/steampunk/static/js/main.beb1aab3.js",
+    "static/media/imgonline-com-ua-Resize1.jpg": "/steampunk/static/media/imgonline-com-ua-Resize1.e6097087e2db3a0dd2ae.jpg",
     "index.html": "/steampunk/index.html",
-    "main.fcfbaa4b.css.map": "/steampunk/static/css/main.fcfbaa4b.css.map",
-    "main.8c05e643.js.map": "/steampunk/static/js/main.8c05e643.js.map"
+    "main.79fddb51.css.map": "/steampunk/static/css/main.79fddb51.css.map",
+    "main.beb1aab3.js.map": "/steampunk/static/js/main.beb1aab3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcfbaa4b.css",
-    "static/js/main.8c05e643.js"
+    "static/css/main.79fddb51.css",
+    "static/js/main.beb1aab3.js"
   ]
 }
