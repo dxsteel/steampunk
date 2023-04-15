@@ -1,23 +1,16 @@
-import { Route, Routes, matchPath, useLocation } from 'react-router-dom';
-import { useEffect, useState } from 'react';
+import { Route, Routes } from 'react-router-dom';
+import { useState } from 'react';
+import dataCharacter from './data.json'
 
 import './App.scss';
 
-import apiService from 'services/api-service';
 import Header from './Header/Header';
 import CharacterList from './CharacterList';
 import Filter from './Filter';
 import CharacterDetail from './CharacterDetail';
 
 export const App = () => {
-  const [dataCharacter, setDataCharacter] = useState([]);
   const [filterByName, setFilterByName] = useState('');
-
-  useEffect(() => {
-    apiService().then(cleanData => {
-      setDataCharacter(cleanData);
-    });
-  }, []);
 
   const handleFilterName = value => {
     setFilterByName(value);
@@ -38,12 +31,12 @@ export const App = () => {
       ? `There's no character that matches the word: ${filterByName.toLowerCase()}`
       : null;
 
-  const { pathname } = useLocation();
-  const dataUrl = matchPath('/character/:characterId', pathname);
-  const characterId = dataUrl !== null ? dataUrl.params.characterId : null;
-  const characterFound = dataCharacter.find(
-    character => character.id === parseInt(characterId)
-  );
+  // const { pathname } = useLocation();
+  // const dataUrl = matchPath('/character/:characterId', pathname);
+  // const characterId = dataUrl !== null ? dataUrl.params.characterId : null;
+  // const characterFound = dataCharacter.find(
+  //   character => character.id === parseInt(characterId)
+  // );
 
   return (
     <div>
@@ -68,7 +61,7 @@ export const App = () => {
         ></Route>
         <Route
           path="/character/:characterId"
-          element={<CharacterDetail character={characterFound} />}
+          element={<CharacterDetail character={dataCharacter} />}
         ></Route>
       </Routes>
     </div>

@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import image from '../../img/imgonline-com-ua-Resize2.jpg';
 import './CharacterDetail.scss';
 
 const CharacterDetail = props => {
@@ -6,11 +7,14 @@ const CharacterDetail = props => {
 const {photo, name, gender, status, specie, origin, type} = props.character;
 
   return (
-    <article>
+    <article className='detail'
+    style={{
+      backgroundImage:`url(${image})`
+    }}>
       <Link className="detail-link" to="/">
         ⬅ GO BACK
       </Link>
-      <img
+      <img 
         className="detail-image"
         src={photo}
         alt={`Pictures of ${name}`}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "photo":"https://i.ibb.co/WVfCCBg/0c1e8dab-41f7-4601-a724-cd3b842e803f.png",
+    "name": "Steamhaven",
+    "specie": "Midjourney"
+  },
+ {
+  "id": "2",
+  "photo":"https://i.ibb.co/HpFtzpC/53bed688-d68f-4779-b705-720d7b5e283d.png",
+    "name": "Ironopolis",
+    "specie": "leonardo"
+  },
+   {
+    "id": "3",
+    "photo":"https://i.ibb.co/nRJqzPv/d7130a6d-47a1-4698-abcf-98dc41de5510.png",
+    "name": "Gearhaven",
+    "specie": "Midjourney"
+  },
+  {
+    "id": "4",
+    "photo":"https://i.ibb.co/2ZNHD1d/efed2a64-f2f0-44c3-9284-954c11c37df7.png",
+    "name": "Steamshire",
+    "specie": "you"
+  },
+  {
+    "id": "5",
+    "photo":"https://i.ibb.co/X5prRk4/done5.png",
+    "name": "Cogsworth",
+    "specie": "lexica"
+  },
+   {
+    "id": "6",
+    "photo":"https://i.ibb.co/j3znPtc/done6.png",
+    "name": "Brassborough",
+    "specie": "lexica"
+  },
+  {
+    "id": "7",
+    "photo":"https://i.ibb.co/wR9zpx8/done7.png",
+    "name": "Clockwork City",
+    "specie": "lexica"
+  },
+   {
+    "id": "8",
+    "photo":"https://i.ibb.co/GCcXyxZ/done8.png",
+    "name": "Brassville",
+    "specie": "Midjourney"
+  },
+   {
+    "id": "9",
+    "photo":"https://i.ibb.co/6DMhKxR/done9.png",
+    "name": "Coalridge",
+    "specie": "Midjourney"
+  },
+  {
+    "id": "10",
+    "photo":"https://i.ibb.co/gRS9DbC/done10.png",
+    "name": "Rustborough",
+    "specie": "you"
+  }
+  
+
+]
