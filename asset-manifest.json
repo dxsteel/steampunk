@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/steampunk/static/css/main.3914349a.css",
-    "main.js": "/steampunk/static/js/main.1d9b36ca.js",
+    "main.css": "/steampunk/static/css/main.875e8a4d.css",
+    "main.js": "/steampunk/static/js/main.ba574b54.js",
     "static/media/imgonline-com-ua-Resize1.jpg": "/steampunk/static/media/imgonline-com-ua-Resize1.e6097087e2db3a0dd2ae.jpg",
+    "static/media/imgonline-com-ua-Resize2.jpg": "/steampunk/static/media/imgonline-com-ua-Resize2.264bff5cafc1a7ea120a.jpg",
     "index.html": "/steampunk/index.html",
-    "main.3914349a.css.map": "/steampunk/static/css/main.3914349a.css.map",
-    "main.1d9b36ca.js.map": "/steampunk/static/js/main.1d9b36ca.js.map"
+    "main.875e8a4d.css.map": "/steampunk/static/css/main.875e8a4d.css.map",
+    "main.ba574b54.js.map": "/steampunk/static/js/main.ba574b54.js.map"
   },
   "entrypoints": [
-    "static/css/main.3914349a.css",
-    "static/js/main.1d9b36ca.js"
+    "static/css/main.875e8a4d.css",
+    "static/js/main.ba574b54.js"
   ]
 }
