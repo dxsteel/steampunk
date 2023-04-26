@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
-import { useState } from 'react';
-import dataCharacter from './data.json'
+import { useState, useEffect } from 'react';
+import data from './data.json'
 
 import './App.scss';
 
@@ -11,6 +11,12 @@ import CharacterDetail from './CharacterDetail';
 
 export const App = () => {
   const [filterByName, setFilterByName] = useState('');
+  const [dataCharacter, setDataCharacter] = useState([]);
+
+  useEffect(() => {
+    setDataCharacter(data);
+  }, []);
+  console.log(data);
 
   const handleFilterName = value => {
     setFilterByName(value);
