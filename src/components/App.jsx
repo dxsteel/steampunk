@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, matchPath, useLocation } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import data from './data.json'
 
@@ -16,7 +16,6 @@ export const App = () => {
   useEffect(() => {
     setDataCharacter(data);
   }, []);
-  console.log(data);
 
   const handleFilterName = value => {
     setFilterByName(value);
@@ -37,12 +36,12 @@ export const App = () => {
       ? `There's no character that matches the word: ${filterByName.toLowerCase()}`
       : null;
 
-  // const { pathname } = useLocation();
-  // const dataUrl = matchPath('/character/:characterId', pathname);
-  // const characterId = dataUrl !== null ? dataUrl.params.characterId : null;
-  // const characterFound = dataCharacter.find(
-  //   character => character.id === parseInt(characterId)
-  // );
+  const { pathname } = useLocation();
+  const dataUrl = matchPath('/character/:characterId', pathname);
+  const characterId = dataUrl !== null ? dataUrl.params.characterId : null;
+  const characterFound = dataCharacter.find(
+    character => character.id === parseInt(characterId)
+  );
 
   return (
     <div>
@@ -67,7 +66,7 @@ export const App = () => {
         ></Route>
         <Route
           path="/character/:characterId"
-          element={<CharacterDetail character={dataCharacter} />}
+          element={<CharacterDetail character={characterFound} />}
         ></Route>
       </Routes>
     </div>

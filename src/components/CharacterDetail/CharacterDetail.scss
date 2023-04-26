@@ -29,8 +29,12 @@
   border-radius: 15px;
   margin: auto;
   margin-bottom: 34px;
+  @media screen and (min-width: 580px) {
+    width: 350px;
+    margin-bottom: 16px;
+  }
   @media screen and (min-width: 1440px) {
-    width: 300px;
+    width: 600px;
     margin-bottom: 16px;
   }
 }
