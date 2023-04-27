@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/steampunk/static/css/main.6ca1eb56.css",
-    "main.js": "/steampunk/static/js/main.1f8b6bac.js",
+    "main.css": "/steampunk/static/css/main.e46fb19f.css",
+    "main.js": "/steampunk/static/js/main.f74a70b5.js",
     "static/media/imgonline-com-ua-Resize1.jpg": "/steampunk/static/media/imgonline-com-ua-Resize1.e6097087e2db3a0dd2ae.jpg",
+    "static/media/Logo.png": "/steampunk/static/media/Logo.04bfd5ce91dfea21210e.png",
     "static/media/imgonline-com-ua-Resize2.jpg": "/steampunk/static/media/imgonline-com-ua-Resize2.264bff5cafc1a7ea120a.jpg",
+    "static/media/instagram-original.png": "/steampunk/static/media/instagram-original.1fb9155f172a0451b7c6.png",
+    "static/media/mail.png": "/steampunk/static/media/mail.ec50ec2f368744b9e23f.png",
+    "static/media/discord-original.png": "/steampunk/static/media/discord-original.29ef112c488c66f404be.png",
     "index.html": "/steampunk/index.html",
-    "main.6ca1eb56.css.map": "/steampunk/static/css/main.6ca1eb56.css.map",
-    "main.1f8b6bac.js.map": "/steampunk/static/js/main.1f8b6bac.js.map"
+    "main.e46fb19f.css.map": "/steampunk/static/css/main.e46fb19f.css.map",
+    "main.f74a70b5.js.map": "/steampunk/static/js/main.f74a70b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ca1eb56.css",
-    "static/js/main.1f8b6bac.js"
+    "static/css/main.e46fb19f.css",
+    "static/js/main.f74a70b5.js"
   ]
 }
