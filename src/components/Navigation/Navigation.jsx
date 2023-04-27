@@ -2,15 +2,15 @@ import instagram from "img/instagram-original.png";
 import discord from "img/discord-original.png";
 import mail from "img/mail.png";
 import logo from "img/Logo.png";
-import './Navigation.scss'
+import './Navigation.scss';
 
 
 export const Navigation = () => {
   return (
     <div className="navigation-position">
       <div className="navigation-logo">
-      <img src={logo} className="logo" alt="logo" width={100} />
-      <h2 className="navigation-header">Steelfactory</h2>
+      <img src={logo} className="logo" alt="logo" />
+      <h2 className="navigation-header">PromptFactory</h2>
       </div>
       
       <div className="navigation">

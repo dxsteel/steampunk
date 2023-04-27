@@ -9,6 +9,7 @@ import Header from './Header/Header';
 import CharacterList from './CharacterList';
 import Filter from './Filter';
 import CharacterDetail from './CharacterDetail';
+import Footer from './Footer/Footer';
 
 export const App = () => {
   const [filterByName, setFilterByName] = useState('');
@@ -63,6 +64,7 @@ export const App = () => {
                 filterByName={filterByName}
                 characters={filteredCharacters(dataCharacter)}
               />
+              <Footer text="Made by DxsTeeL in 2023" />
             </main>
           }
         ></Route>

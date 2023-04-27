@@ -11,7 +11,7 @@
   font-family: 'Cinzel Decorative';
   font-style: normal;
   font-weight: 700;
-  color: #ffffff;
+  color: antiquewhite;
   font-size: 18px;
   line-height: 21px;
   @media screen and (min-width: 1440px) {
@@ -24,7 +24,7 @@
 
 .detail-image {
   width: 150px;
-  border: 2px solid #f8990b;
+  border: 1px solid #f8990b;
  
   border-radius: 15px;
   margin: auto;
@@ -50,7 +50,7 @@
   align-items: center;
   margin-bottom: 34px;
 
-  color: #ffffff;
+  color: antiquewhite;
   @media screen and (min-width: 1440px) {
     font-size: 48px;
     line-height: 56px;
@@ -71,7 +71,7 @@
 
   letter-spacing: 0.15px;
 
-  color: #ffffff;
+  color: antiquewhite;
   @media screen and (min-width: 1440px) {
     margin-bottom: 48px;
   }
@@ -88,9 +88,9 @@
 
   letter-spacing: 0.15px;
 
-  color: #ffffff;
+  color: antiquewhite;
   @media screen and (min-width: 1440px) {
-    margin-left: 541px;
+    margin-left: 500px;
     margin-right: 502px;
   }
 }
@@ -109,7 +109,7 @@
 
   color: #6e798c;
   @media screen and (min-width: 1440px) {
-    margin-left: 541px;
+    margin-left: 500px;
     margin-right: 502px;
   }
 }
@@ -120,7 +120,7 @@
   margin-right: 32px;
   margin-bottom: 9px;
   @media screen and (min-width: 1440px) {
-    margin-left: 541px;
+    margin-left: 500px;
     margin-right: 502px;
   }
 }

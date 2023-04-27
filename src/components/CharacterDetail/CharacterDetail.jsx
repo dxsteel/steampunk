@@ -4,7 +4,7 @@ import './CharacterDetail.scss';
 
 const CharacterDetail = props => {
 
-const {photo, name, gender, status, specie, origin, type} = props.character;
+const {photo, name, specie, resolution, step, scale, prompt} = props.character;
 
   return (
     <article className='detail'
@@ -23,20 +23,20 @@ const {photo, name, gender, status, specie, origin, type} = props.character;
       <div>
         <h3 className="detail-name">{name}</h3>
         <h4 className="detail-informations">Informations</h4>
-        <p className="detail-properties">Gender</p>
-        <p className="detail-descriptions">{gender}</p>
-        <p className="detail-line"></p>
-        <p className="detail-properties">Status</p>
-        <p className="detail-descriptions">{status}</p>
-        <p className="detail-line"></p>
-        <p className="detail-properties">Specie</p>
+        <p className="detail-properties">Base model</p>
         <p className="detail-descriptions">{specie}</p>
         <p className="detail-line"></p>
-        <p className="detail-properties">Origin</p>
-        <p className="detail-descriptions">{origin}</p>
+        <p className="detail-properties">Training Resolution</p>
+        <p className="detail-descriptions">{resolution}</p>
         <p className="detail-line"></p>
-        <p className="detail-properties">Type</p>
-        <p className="detail-descriptions">{type}</p>
+        <p className="detail-properties">Step Count</p>
+        <p className="detail-descriptions">{step}</p>
+        <p className="detail-line"></p>
+        <p className="detail-properties">Guidance Scale</p>
+        <p className="detail-descriptions">{scale}</p>
+        <p className="detail-line"></p>
+        <p className="detail-properties">Prompt details</p>
+        <p className="detail-descriptions">{prompt}</p>
         <p className="detail-line"></p>
       </div>
     </article>

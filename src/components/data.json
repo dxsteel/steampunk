@@ -3,61 +3,101 @@
     "id": 1,
     "photo":"https://i.ibb.co/M9rT5Cx/you1.png",
     "name": "Steamhaven",
-    "specie": "Midjourney"
+    "specie": "Midjourney",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, COLOR: Sepia and Brass, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
  {
   "id": 2,
   "photo":"https://i.ibb.co/fn3YqFd/you2.png",
     "name": "Ironopolis",
-    "specie": "leonardo"
+    "specie": "Leonardo",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt":"VISUAL STYLE: Steampunk city, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
    {
     "id": 3,
     "photo":"https://i.ibb.co/dBX8Lry/you3.png",
     "name": "Gearhaven",
-    "specie": "Midjourney"
+    "specie": "Midjourney",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, COLOR: Sepia and Brass, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
   {
     "id": 4,
     "photo":"https://i.ibb.co/m6zb7nP/you4.png",
     "name": "Steamshire",
-    "specie": "you"
+    "specie": "You",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk city, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
   {
     "id": 5,
     "photo":"https://i.ibb.co/2sc4nCW/you5.png",
     "name": "Cogsworth",
-    "specie": "lexica"
+    "specie": "Lexica",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk city, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
    {
     "id": 6,
     "photo":"https://i.ibb.co/r53KN55/you6.png",
     "name": "Brassborough",
-    "specie": "lexica"
+    "specie": "Lexica",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk city, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
   {
     "id": 7,
     "photo":"https://i.ibb.co/WvhjR4W/you7.png",
     "name": "Clockwork City",
-    "specie": "lexica"
+    "specie": "Lexica",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Retro-futuristic city, GENRE: Landscapes, SUBJECT(S): Dystopian city, paranormal abilities, TIME PERIOD: 1960s, ASPECT RATIO: 2.35:1, FORMAT: Digital, FRAME SIZE: 1080p, LENS SIZE: 50mm, COMPOSITION: Rule of thirds, LIGHTING: Dim, moody, LIGHTING TYPE: Neon and tungsten, TIME OF DAY: Day and night, ENVIRONMENT: Underwater city, LOCATION TYPE: Dystopian ruins, SET: Decrepit Art-Deco architecture, CAMERA: Steady Cam, LENS: Wide angle, FILM STOCK / RESOLUTION: 1080p resolution, TAGS: Adventure, Paranormal, Dystopian, Underwater world --v 4 --q 2 --ar 16:9"
   },
    {
     "id": 8,
     "photo":"https://i.ibb.co/Ks7QpDX/you8.png",
     "name": "Brassville",
-    "specie": "Midjourney"
+    "specie": "Midjourney",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, COLOR: Sepia and Brass, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
    {
     "id": 9,
     "photo":"https://i.ibb.co/Y0WS6hn/you9.png",
     "name": "Coalridge",
-    "specie": "Midjourney"
+    "specie": "Midjourney",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, COLOR: Sepia and Brass, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
   },
   {
     "id": 10,
     "photo":"https://i.ibb.co/K7VM6pq/you10.png",
     "name": "Rustborough",
-    "specie": "you"
+    "specie": "You",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Retro-futuristic city, GENRE: Landscapes, SUBJECT(S): Dystopian city, paranormal abilities, TIME PERIOD: 1960s, ASPECT RATIO: 2.35:1, FORMAT: Digital, FRAME SIZE: 1080p, LENS SIZE: 50mm, COMPOSITION: Rule of thirds, LIGHTING: Dim, moody, LIGHTING TYPE: Neon and tungsten, TIME OF DAY: Day and night, ENVIRONMENT: Underwater city, LOCATION TYPE: Dystopian ruins, SET: Decrepit Art-Deco architecture, CAMERA: Steady Cam, LENS: Wide angle, FILM STOCK / RESOLUTION: 1080p resolution, TAGS: Adventure, Paranormal, Dystopian, Underwater world --v 4 --q 2 --ar 16:9"
   }
   
 
