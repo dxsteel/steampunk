@@ -4,6 +4,7 @@ import data from './data.json'
 
 import './App.scss';
 
+import Navigation from './Navigation/Navigation';
 import Header from './Header/Header';
 import CharacterList from './CharacterList';
 import Filter from './Filter';
@@ -50,6 +51,7 @@ export const App = () => {
           path="/"
           element={
             <main className="container">
+              <Navigation />
               <Header />
               <Filter
                 filterByName={filterByName}
