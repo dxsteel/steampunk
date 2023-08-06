@@ -98,7 +98,55 @@
     "step": "30",
     "scale": "7",
     "prompt": "VISUAL STYLE: Retro-futuristic city, GENRE: Landscapes, SUBJECT(S): Dystopian city, paranormal abilities, TIME PERIOD: 1960s, ASPECT RATIO: 2.35:1, FORMAT: Digital, FRAME SIZE: 1080p, LENS SIZE: 50mm, COMPOSITION: Rule of thirds, LIGHTING: Dim, moody, LIGHTING TYPE: Neon and tungsten, TIME OF DAY: Day and night, ENVIRONMENT: Underwater city, LOCATION TYPE: Dystopian ruins, SET: Decrepit Art-Deco architecture, CAMERA: Steady Cam, LENS: Wide angle, FILM STOCK / RESOLUTION: 1080p resolution, TAGS: Adventure, Paranormal, Dystopian, Underwater world --v 4 --q 2 --ar 16:9"
-  }
-  
-
+  },
+  {
+    "id": 11,
+    "photo":"https://i.ibb.co/gz5V3mS/you11.png",
+    "name": "Dumpsteam",
+    "specie": "You",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Retro-futuristic city, GENRE: Landscapes, SUBJECT(S): Dystopian city, paranormal abilities, TIME PERIOD: 1960s, ASPECT RATIO: 2.35:1, FORMAT: Digital, FRAME SIZE: 1080p, LENS SIZE: 50mm, COMPOSITION: Rule of thirds, LIGHTING: Dim, moody, LIGHTING TYPE: Neon and tungsten, TIME OF DAY: Day and night, ENVIRONMENT: Underwater city, LOCATION TYPE: Dystopian ruins, SET: Decrepit Art-Deco architecture, CAMERA: Steady Cam, LENS: Wide angle, FILM STOCK / RESOLUTION: 1080p resolution, TAGS: Adventure, Paranormal, Dystopian, Underwater world --v 4 --q 2 --ar 16:9"
+  },
+  {
+    "id": 12,
+    "photo":"https://i.ibb.co/CBsRJtC/you12.png",
+    "name": "Bronze Sprocket",
+    "specie": "Lexica",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Retro-futuristic city, GENRE: Landscapes, SUBJECT(S): Dystopian city, paranormal abilities, TIME PERIOD: 1960s, ASPECT RATIO: 2.35:1, FORMAT: Digital, FRAME SIZE: 1080p, LENS SIZE: 50mm, COMPOSITION: Rule of thirds, LIGHTING: Dim, moody, LIGHTING TYPE: Neon and tungsten, TIME OF DAY: Day and night, ENVIRONMENT: Underwater city, LOCATION TYPE: Dystopian ruins, SET: Decrepit Art-Deco architecture, CAMERA: Steady Cam, LENS: Wide angle, FILM STOCK / RESOLUTION: 1080p resolution, TAGS: Adventure, Paranormal, Dystopian, Underwater world --v 4 --q 2 --ar 16:9"
+  },
+  {
+    "id": 13,
+    "photo":"https://i.ibb.co/hfXYSDH/you13.png",
+    "name": "Springville",
+    "specie": "Midjourney",
+    "resolution": "1024 x 1024",
+    "step": "30",
+    "scale": "7",
+    "prompt": "VISUAL STYLE: Steampunk, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, COLOR: Sepia and Brass, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
+  },
+  {
+    "id": 14,
+    "photo":"https://i.ibb.co/McWcrGk/you14.png",
+      "name": "Electrostadt",
+      "specie": "Leonardo",
+      "resolution": "1024 x 1024",
+      "step": "30",
+      "scale": "7",
+      "prompt":"VISUAL STYLE: Steampunk city, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
+    },
+    {
+      "id": 15,
+      "photo":"https://i.ibb.co/9pr9yWM/you15.png",
+      "name": "Steam Atlantis",
+      "specie": "Lexica",
+      "resolution": "1024 x 1024",
+      "step": "30",
+      "scale": "7",
+      "prompt": "VISUAL STYLE: Steampunk city, GENRE: Landscape, SUBJECT(S): Machinery, TIME PERIOD: Victorian Era, ASPECT RATIO: 2.35:1, FORMAT: Widescreen, FRAME SIZE: Long shot, LENS SIZE: 35mm, COMPOSITION: Rule of thirds, with gears and pipes in foreground leading to background, LIGHTING: Dim, moody, with visible rays of light, LIGHTING TYPE: Industrial lighting, TIME OF DAY: Night, ENVIRONMENT: Exterior, LOCATION TYPE: Industrial district, SET: Abandoned factory, CAMERA: Blackmagic Pocket Cinema Camera 6K, LENS: Sigma 35mm f/1.4 DG HSM Art, FILM STOCK / RESOLUTION: RAW, 6K resolution, TAGS: Steampunk, Industrial revolution, Machinery --v 4 --q 2 --ar 16:9."
+    }
 ]
